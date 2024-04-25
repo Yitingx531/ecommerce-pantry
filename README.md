@@ -9,4 +9,5 @@ Packages:
 6. jsonwebtoken
 7. bcrypt
 8. nodemon
+9. React
 
